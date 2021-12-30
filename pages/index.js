@@ -11,7 +11,7 @@ export default function Home({exploreData, cardsData}) {
     <div className="">
       <Head>
         <title>Airbnb's here </title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://links.papareact.com/qd3" />
       </Head>
       
 
