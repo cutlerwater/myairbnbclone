@@ -6,35 +6,35 @@ function Footer() {
            <div className="space-y-4 text-sm text-gray-800">
                <h5 className="font-bold">ABOUT</h5>
                <p>How Airbnb works</p>
-               <p>Newsroom</p>
-               <p>Airbnb 2021</p>
-               <p>Investors</p>
+               <p>Let's go Brandon!</p>
+               <p>Make America Great Again!</p>
+               <p>Sponsor me</p>
                <p>Airbnb Plus</p>
                
            </div>
            <div className="space-y-4 text-sm text-gray-800">
-           <h5 className="font-bold">COMMUNITY</h5>
-               <p>Acessibility</p>
+           <h5 className="font-bold">My Portfolio</h5>
+               <p>Planet Technologies</p>
                <p>This is not a real site!</p>
-               <p>It is a pretty awesome clone</p>
-               <p>Referral accepted</p>
-               <p>Papafam here</p>
+               <p>NextJS is awesome!</p>
+               <p>Cutlerwater here</p>
+               <p>Vercel</p>
            </div>
            <div className="space-y-4 text-sm text-gray-800">
-           <h5 className="font-bold">HOST</h5>
-               <p>Host your home</p>
-               <p>Host an Online Experience</p>
+           <h5 className="font-bold">Technologies</h5>
+               <p>Javascript</p>
+               <p>HTML and CSS</p>
                <p>Resource Centre</p>
-               <p>Community Centre</p>
-               <p>Host an Experience</p>
+               <p>TailwindCSS</p>
+               <p>Redux</p>
            </div>
            <div className="space-y-4 text-sm text-gray-800">
-           <h5 className="font-bold">SUPPORT</h5>
-               <p>Our COVID-19 Responses</p>
-               <p>Neighbourhood</p>
-               <p>Help Centre</p>
-               <p>Cancellation Options</p>
-               <p>Trust & Safety</p>
+           <h5 className="font-bold">COVID</h5>
+               <p>Alpha</p>
+               <p>Bravo</p>
+               <p>Delta</p>
+               <p>Omicron</p>
+               <p>Done!</p>
            </div>
        </div> 
     );
